@@ -1,0 +1,5 @@
+dism /Online /Add-Capability /CapabilityName:OpenSSH.Client~~~~0.0.1.0
+
+C:\Users\Maksim\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+
+https://github.com/MaksoN12340987/XMRig.git
