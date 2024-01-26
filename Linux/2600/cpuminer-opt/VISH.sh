@@ -7,6 +7,6 @@
 #
 FOLDER=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 while [ 1 ]; do
-"$FOLDER"/cpuminer-sse2 -a rwahash -o stratum+tcps://stratum-eu.rplant.xyz:17089 -u WALLET_ADDRESS.WORKER_NAME
+"$FOLDER"/cpuminer -a yespowerr32 -o stratum+tcps://stratum-eu.rplant.xyz:17079 -u uoWkHtKCWzZsxrAx2tb7c5Bf4rfSMP8LWo.2600x -p start=5
 sleep 5
 done
