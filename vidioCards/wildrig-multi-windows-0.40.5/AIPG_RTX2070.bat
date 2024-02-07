@@ -1,7 +1,7 @@
 @echo off
 
 :loop
-wildrig.exe -a kawpow  -o stratum+tcps://stratum-eu.rplant.xyz:17105 -u AGWvxL6qWKrPpL8coSr6JmjxqeL3pmPbyT.RX6800
+wildrig.exe -a kawpow  -o stratum+tcps://stratum-eu.rplant.xyz:17105 -u AGWvxL6qWKrPpL8coSr6JmjxqeL3pmPbyT.RTX2070
 
 if ERRORLEVEL 1 goto custom
 timeout /t 5
