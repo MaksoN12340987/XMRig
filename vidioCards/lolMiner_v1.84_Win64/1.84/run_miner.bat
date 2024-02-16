@@ -1,0 +1,1 @@
+.\lolMiner.exe -a GRAM --pool api-pool.gramcoin.org:443 --user UQALySAQp_wOfcn65NCAY9XZM1gLrBd2TcX4hZziHjdkZOv8
