@@ -1,1 +1,0 @@
-.\gram-mining-pool.exe --address UQALySAQp_wOfcn65NCAY9XZM1gLrBd2TcX4hZziHjdkZOv8 --gpu-auto --miner open-cl
