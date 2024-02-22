@@ -1,9 +1,0 @@
-2024-02-22 19:15:42	ERROR	Execution stopped(FATAL: Please do not use accessToken AND payoutID)
-
-System.Exception: FATAL: Please do not use accessToken AND payoutID
-   at li.qubic.trainer.Trainer.VerifyStartup()
-   at li.qubic.trainer.Trainer..ctor(String token)
-   at Program.Main(String[] args)
-   at li.qubic.trainer.Trainer.VerifyStartup()
-   at li.qubic.trainer.Trainer..ctor(String token)
-   at Program.Main(String[] args)
