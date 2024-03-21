@@ -1,0 +1,2 @@
+cd /d %~dp0
+lolzil -a KASPA -p kas.2miners.com:2020 -u kaspa:qzwtpvs7rzdr07kdtmw85hn55dexya43mwnfff2vxwcu4cndxujnvfuuztv4r --cclk 1560 --mclk 810 --zpool eu1-zil.shardpool.io:3333 --zuser zil12udfg3u8tplknlta9rfjwnf9hdpr7svk2rvl2f --zcclk 1500 --zmclk 7000 --zmoff 800
