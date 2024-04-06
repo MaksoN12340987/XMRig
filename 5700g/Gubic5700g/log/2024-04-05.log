@@ -1,0 +1,7 @@
+2024-04-05 20:12:44	ERROR	Ping error: API Report Error: ServiceUnavailable(API Report Error: ServiceUnavailable)
+
+System.Exception: API Report Error: ServiceUnavailable
+   at li.qubic.trainer.Client.Ping(ReportRequest pingRequest)
+   at li.qubic.trainer.Trainer.PingApi()
+   at li.qubic.trainer.Client.Ping(ReportRequest pingRequest)
+   at li.qubic.trainer.Trainer.PingApi()
