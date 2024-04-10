@@ -1,0 +1,7 @@
+2024-04-10 03:30:58	ERROR	Ping error: API Report Error: GatewayTimeout(API Report Error: GatewayTimeout)
+
+System.Exception: API Report Error: GatewayTimeout
+   at li.qubic.trainer.Client.Ping(ReportRequest pingRequest)
+   at li.qubic.trainer.Trainer.PingApi()
+   at li.qubic.trainer.Client.Ping(ReportRequest pingRequest)
+   at li.qubic.trainer.Trainer.PingApi()
