@@ -1,2 +1,0 @@
-cd /d %~dp0
-lolzil -a EQUI144_5 -p eu.btg.k1pool.com:3857 -u KrNktVphsqTNsL1hyPDmD8BFRV8mdHmcvYH.lolMinerWorker --cclk 1560  --pers BgoldPoW --zpool eu.zil.k1pool.com:1111 --zuser KrNktVphsqTNsL1hyPDmD8BFRV8mdHmcvYH --zcclk 1500 --zmclk 7000 --zmoff 800

@@ -1,2 +1,0 @@
-cd /d %~dp0
-lolzil -a NEXA -p fr.vipor.net:5084 -u nexa:nqtsq5g5ef6qaejwzyzmafnqm3j7qcaesy9e9d0vtwm98xdg --cclk 1560 --mclk 5000 --zpool eu1-zil.shardpool.io:3333 --zuser zil12udfg3u8tplknlta9rfjwnf9hdpr7svk2rvl2f --zcclk 1500 --zmclk 7000 --zmoff 800

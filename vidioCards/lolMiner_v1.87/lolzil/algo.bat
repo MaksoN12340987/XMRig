@@ -1,0 +1,1 @@
+lolMiner.exe -a GRAM -p lolminer.ton.ninja:9999 -u UQALySAQp_wOfcn65NCAY9XZM1gLrBd2TcX4hZziHjdkZOv8 --apiport 8020

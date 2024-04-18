@@ -1,2 +1,0 @@
-cd /d %~dp0
-lolzil -a FLUX -p de.flux.herominers.com:1200 -u t1XVqNndKuCJyD2dF3Dfo9TAu69JoMaTf3S --cclk 1560 --mclk 5000 --zpool eu1-zil.shardpool.io:3333 --zuser zil12udfg3u8tplknlta9rfjwnf9hdpr7svk2rvl2f --zcclk 1500 --zmclk 7000 --zmoff 800

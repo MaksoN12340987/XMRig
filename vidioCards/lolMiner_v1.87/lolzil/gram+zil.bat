@@ -1,0 +1,2 @@
+cd /d %~dp0
+lolzil -a GRAM -p lolminer.ton.ninja:9999 -u WALLET_TON --cclk 1560 --mclk 810 --zpool eu1-zil.shardpool.io:3333 --zuser zil12udfg3u8tplknlta9rfjwnf9hdpr7svk2rvl2f --zcclk 1500 --zmclk 7000 --zmoff 800
