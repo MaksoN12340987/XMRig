@@ -26,7 +26,7 @@ if "%version%" == "10.0" goto W10
 goto OtherW
 
 :W10
-"%MyVariable%"  --algo IRONFISH --pool !POOL! --user !WALLET!  --watchdog exit !EXTRAPARAMETERS!
+"%MyVariable%"  --algo FISHHASH --pool !POOL! --user !WALLET!  --watchdog exit !EXTRAPARAMETERS!
 if %ERRORLEVEL% == 42 (
 	timeout 10
 	goto W10
@@ -34,7 +34,7 @@ if %ERRORLEVEL% == 42 (
 goto END
 
 :OtherW
-"%MyVariable%"  --algo IRONFISH --pool !POOL! --user !WALLET! --watchdog exit !EXTRAPARAMETERS! --nocolor
+"%MyVariable%"  --algo FISHHASH --pool !POOL! --user !WALLET! --watchdog exit !EXTRAPARAMETERS! --nocolor
 if %ERRORLEVEL% == 42 (
 	timeout 10
 	goto OtherW
