@@ -1,1 +1,1 @@
-lolMiner.exe -a GRAM -p lolminer.ton.ninja:9999 -u UQALySAQp_wOfcn65NCAY9XZM1gLrBd2TcX4hZziHjdkZOv8 --apiport 8020
+lolMiner.exe -a GRAM -p lolminer.hyperpool.pro:8040 -u eaf89db7108470dc3f6b23eac007561a4e5cf994979b5638b19edf0932b54548df98ffa69e9f --ton-mode 6 --apiport 8020

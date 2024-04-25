@@ -2589,3 +2589,10 @@ System.Net.Http.HttpRequestException: Попытка установить сое
    at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16)
    at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs, ValueTask, CancellationToken)
    at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String, Int32, HttpRequestMessage, Boolean, CancellationToken)
+2024-04-22 13:07:16	ERROR	Ping error: API Report Error: ServiceUnavailable(API Report Error: ServiceUnavailable)
+
+System.Exception: API Report Error: ServiceUnavailable
+   at li.qubic.trainer.Client.Ping(ReportRequest pingRequest)
+   at li.qubic.trainer.Trainer.PingApi()
+   at li.qubic.trainer.Client.Ping(ReportRequest pingRequest)
+   at li.qubic.trainer.Trainer.PingApi()
