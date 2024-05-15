@@ -1,0 +1,156 @@
+2024-05-15 12:23:28	ERROR	Ping error: API Report Error: ServiceUnavailable(API Report Error: ServiceUnavailable)
+
+System.Exception: API Report Error: ServiceUnavailable
+   at li.qubic.trainer.Client.Ping(ReportRequest pingRequest)
+   at li.qubic.trainer.Trainer.PingApi()
+   at li.qubic.trainer.Client.Ping(ReportRequest pingRequest)
+   at li.qubic.trainer.Trainer.PingApi()
+2024-05-15 12:31:09	ERROR	Failed loading Task. API Error: GatewayTimeout
+2024-05-15 12:40:38	ERROR	Error Getting Worker BadRequest with Trainer not registered with correct hash
+2024-05-15 12:41:38	ERROR	General error: Could not find file 'C:\Users\Makson-PC\Desktop\XMRig\5700g\Gubic5700g\qli-runner.exe'.(Could not find file 'C:\Users\Makson-PC\Desktop\XMRig\5700g\Gubic5700g\qli-runner.exe'.)
+
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Makson-PC\Desktop\XMRig\5700g\Gubic5700g\qli-runner.exe'.
+File name: 'C:\Users\Makson-PC\Desktop\XMRig\5700g\Gubic5700g\qli-runner.exe'
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String, FileMode, FileAccess, FileShare, FileOptions)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String, FileMode, FileAccess, FileShare, FileOptions, Int64, Nullable`1 )
+   at System.IO.File.OpenHandle(String, FileMode , FileAccess , FileShare , FileOptions , Int64 )
+   at System.IO.File.ReadAllBytes(String)
+   at li.qubic.trainer.Trainer.CheckTrainerBinary()
+   at li.qubic.trainer.Trainer.StartLocalMining()
+   at li.qubic.trainer.Trainer.CheckLocalTrainer()
+   at li.qubic.trainer.Trainer.Start()
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String, FileMode, FileAccess, FileShare, FileOptions)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String, FileMode, FileAccess, FileShare, FileOptions, Int64, Nullable`1 )
+   at System.IO.File.OpenHandle(String, FileMode , FileAccess , FileShare , FileOptions , Int64 )
+   at System.IO.File.ReadAllBytes(String)
+   at li.qubic.trainer.Trainer.CheckTrainerBinary()
+   at li.qubic.trainer.Trainer.StartLocalMining()
+   at li.qubic.trainer.Trainer.CheckLocalTrainer()
+   at li.qubic.trainer.Trainer.Start()
+2024-05-15 12:43:03	ERROR	Error Getting Worker BadRequest with Trainer not registered with correct hash
+2024-05-15 12:44:03	ERROR	General error: Could not find file 'C:\Users\Makson-PC\Desktop\XMRig\5700g\Gubic5700g\qli-runner.exe'.(Could not find file 'C:\Users\Makson-PC\Desktop\XMRig\5700g\Gubic5700g\qli-runner.exe'.)
+
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Makson-PC\Desktop\XMRig\5700g\Gubic5700g\qli-runner.exe'.
+File name: 'C:\Users\Makson-PC\Desktop\XMRig\5700g\Gubic5700g\qli-runner.exe'
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String, FileMode, FileAccess, FileShare, FileOptions)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String, FileMode, FileAccess, FileShare, FileOptions, Int64, Nullable`1 )
+   at System.IO.File.OpenHandle(String, FileMode , FileAccess , FileShare , FileOptions , Int64 )
+   at System.IO.File.ReadAllBytes(String)
+   at li.qubic.trainer.Trainer.CheckTrainerBinary()
+   at li.qubic.trainer.Trainer.StartLocalMining()
+   at li.qubic.trainer.Trainer.CheckLocalTrainer()
+   at li.qubic.trainer.Trainer.Start()
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String, FileMode, FileAccess, FileShare, FileOptions)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String, FileMode, FileAccess, FileShare, FileOptions, Int64, Nullable`1 )
+   at System.IO.File.OpenHandle(String, FileMode , FileAccess , FileShare , FileOptions , Int64 )
+   at System.IO.File.ReadAllBytes(String)
+   at li.qubic.trainer.Trainer.CheckTrainerBinary()
+   at li.qubic.trainer.Trainer.StartLocalMining()
+   at li.qubic.trainer.Trainer.CheckLocalTrainer()
+   at li.qubic.trainer.Trainer.Start()
+2024-05-15 12:44:40	ERROR	Error Getting Worker BadRequest with Trainer not registered with correct hash
+2024-05-15 12:45:40	ERROR	General error: Could not find file 'C:\Users\Makson-PC\Desktop\XMRig\5700g\Gubic5700g\qli-runner.exe'.(Could not find file 'C:\Users\Makson-PC\Desktop\XMRig\5700g\Gubic5700g\qli-runner.exe'.)
+
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Makson-PC\Desktop\XMRig\5700g\Gubic5700g\qli-runner.exe'.
+File name: 'C:\Users\Makson-PC\Desktop\XMRig\5700g\Gubic5700g\qli-runner.exe'
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String, FileMode, FileAccess, FileShare, FileOptions)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String, FileMode, FileAccess, FileShare, FileOptions, Int64, Nullable`1 )
+   at System.IO.File.OpenHandle(String, FileMode , FileAccess , FileShare , FileOptions , Int64 )
+   at System.IO.File.ReadAllBytes(String)
+   at li.qubic.trainer.Trainer.CheckTrainerBinary()
+   at li.qubic.trainer.Trainer.StartLocalMining()
+   at li.qubic.trainer.Trainer.CheckLocalTrainer()
+   at li.qubic.trainer.Trainer.Start()
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String, FileMode, FileAccess, FileShare, FileOptions)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String, FileMode, FileAccess, FileShare, FileOptions, Int64, Nullable`1 )
+   at System.IO.File.OpenHandle(String, FileMode , FileAccess , FileShare , FileOptions , Int64 )
+   at System.IO.File.ReadAllBytes(String)
+   at li.qubic.trainer.Trainer.CheckTrainerBinary()
+   at li.qubic.trainer.Trainer.StartLocalMining()
+   at li.qubic.trainer.Trainer.CheckLocalTrainer()
+   at li.qubic.trainer.Trainer.Start()
+2024-05-15 12:46:40	ERROR	Error Getting Worker BadRequest with Trainer not registered with correct hash
+2024-05-15 12:47:40	ERROR	General error: Could not find file 'C:\Users\Makson-PC\Desktop\XMRig\5700g\Gubic5700g\qli-runner.exe'.(Could not find file 'C:\Users\Makson-PC\Desktop\XMRig\5700g\Gubic5700g\qli-runner.exe'.)
+
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Makson-PC\Desktop\XMRig\5700g\Gubic5700g\qli-runner.exe'.
+File name: 'C:\Users\Makson-PC\Desktop\XMRig\5700g\Gubic5700g\qli-runner.exe'
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String, FileMode, FileAccess, FileShare, FileOptions)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String, FileMode, FileAccess, FileShare, FileOptions, Int64, Nullable`1 )
+   at System.IO.File.OpenHandle(String, FileMode , FileAccess , FileShare , FileOptions , Int64 )
+   at System.IO.File.ReadAllBytes(String)
+   at li.qubic.trainer.Trainer.CheckTrainerBinary()
+   at li.qubic.trainer.Trainer.StartLocalMining()
+   at li.qubic.trainer.Trainer.CheckLocalTrainer()
+   at li.qubic.trainer.Trainer.Start()
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String, FileMode, FileAccess, FileShare, FileOptions)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String, FileMode, FileAccess, FileShare, FileOptions, Int64, Nullable`1 )
+   at System.IO.File.OpenHandle(String, FileMode , FileAccess , FileShare , FileOptions , Int64 )
+   at System.IO.File.ReadAllBytes(String)
+   at li.qubic.trainer.Trainer.CheckTrainerBinary()
+   at li.qubic.trainer.Trainer.StartLocalMining()
+   at li.qubic.trainer.Trainer.CheckLocalTrainer()
+   at li.qubic.trainer.Trainer.Start()
+2024-05-15 12:48:41	ERROR	Error Getting Worker BadRequest with Trainer not registered with correct hash
+2024-05-15 12:49:41	ERROR	General error: Could not find file 'C:\Users\Makson-PC\Desktop\XMRig\5700g\Gubic5700g\qli-runner.exe'.(Could not find file 'C:\Users\Makson-PC\Desktop\XMRig\5700g\Gubic5700g\qli-runner.exe'.)
+
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Makson-PC\Desktop\XMRig\5700g\Gubic5700g\qli-runner.exe'.
+File name: 'C:\Users\Makson-PC\Desktop\XMRig\5700g\Gubic5700g\qli-runner.exe'
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String, FileMode, FileAccess, FileShare, FileOptions)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String, FileMode, FileAccess, FileShare, FileOptions, Int64, Nullable`1 )
+   at System.IO.File.OpenHandle(String, FileMode , FileAccess , FileShare , FileOptions , Int64 )
+   at System.IO.File.ReadAllBytes(String)
+   at li.qubic.trainer.Trainer.CheckTrainerBinary()
+   at li.qubic.trainer.Trainer.StartLocalMining()
+   at li.qubic.trainer.Trainer.CheckLocalTrainer()
+   at li.qubic.trainer.Trainer.Start()
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String, FileMode, FileAccess, FileShare, FileOptions)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String, FileMode, FileAccess, FileShare, FileOptions, Int64, Nullable`1 )
+   at System.IO.File.OpenHandle(String, FileMode , FileAccess , FileShare , FileOptions , Int64 )
+   at System.IO.File.ReadAllBytes(String)
+   at li.qubic.trainer.Trainer.CheckTrainerBinary()
+   at li.qubic.trainer.Trainer.StartLocalMining()
+   at li.qubic.trainer.Trainer.CheckLocalTrainer()
+   at li.qubic.trainer.Trainer.Start()
+2024-05-15 12:50:41	ERROR	Error Getting Worker BadRequest with Trainer not registered with correct hash
+2024-05-15 12:51:41	ERROR	General error: Could not find file 'C:\Users\Makson-PC\Desktop\XMRig\5700g\Gubic5700g\qli-runner.exe'.(Could not find file 'C:\Users\Makson-PC\Desktop\XMRig\5700g\Gubic5700g\qli-runner.exe'.)
+
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Makson-PC\Desktop\XMRig\5700g\Gubic5700g\qli-runner.exe'.
+File name: 'C:\Users\Makson-PC\Desktop\XMRig\5700g\Gubic5700g\qli-runner.exe'
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String, FileMode, FileAccess, FileShare, FileOptions)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String, FileMode, FileAccess, FileShare, FileOptions, Int64, Nullable`1 )
+   at System.IO.File.OpenHandle(String, FileMode , FileAccess , FileShare , FileOptions , Int64 )
+   at System.IO.File.ReadAllBytes(String)
+   at li.qubic.trainer.Trainer.CheckTrainerBinary()
+   at li.qubic.trainer.Trainer.StartLocalMining()
+   at li.qubic.trainer.Trainer.CheckLocalTrainer()
+   at li.qubic.trainer.Trainer.Start()
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String, FileMode, FileAccess, FileShare, FileOptions)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String, FileMode, FileAccess, FileShare, FileOptions, Int64, Nullable`1 )
+   at System.IO.File.OpenHandle(String, FileMode , FileAccess , FileShare , FileOptions , Int64 )
+   at System.IO.File.ReadAllBytes(String)
+   at li.qubic.trainer.Trainer.CheckTrainerBinary()
+   at li.qubic.trainer.Trainer.StartLocalMining()
+   at li.qubic.trainer.Trainer.CheckLocalTrainer()
+   at li.qubic.trainer.Trainer.Start()
+2024-05-15 12:52:58	ERROR	Error Getting Worker BadRequest with Trainer not registered with correct hash
+2024-05-15 12:53:58	ERROR	General error: Could not find file 'C:\Users\Makson-PC\Desktop\XMRig\5700g\Gubic5700g\qli-runner.exe'.(Could not find file 'C:\Users\Makson-PC\Desktop\XMRig\5700g\Gubic5700g\qli-runner.exe'.)
+
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Makson-PC\Desktop\XMRig\5700g\Gubic5700g\qli-runner.exe'.
+File name: 'C:\Users\Makson-PC\Desktop\XMRig\5700g\Gubic5700g\qli-runner.exe'
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String, FileMode, FileAccess, FileShare, FileOptions)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String, FileMode, FileAccess, FileShare, FileOptions, Int64, Nullable`1 )
+   at System.IO.File.OpenHandle(String, FileMode , FileAccess , FileShare , FileOptions , Int64 )
+   at System.IO.File.ReadAllBytes(String)
+   at li.qubic.trainer.Trainer.CheckTrainerBinary()
+   at li.qubic.trainer.Trainer.StartLocalMining()
+   at li.qubic.trainer.Trainer.CheckLocalTrainer()
+   at li.qubic.trainer.Trainer.Start()
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String, FileMode, FileAccess, FileShare, FileOptions)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String, FileMode, FileAccess, FileShare, FileOptions, Int64, Nullable`1 )
+   at System.IO.File.OpenHandle(String, FileMode , FileAccess , FileShare , FileOptions , Int64 )
+   at System.IO.File.ReadAllBytes(String)
+   at li.qubic.trainer.Trainer.CheckTrainerBinary()
+   at li.qubic.trainer.Trainer.StartLocalMining()
+   at li.qubic.trainer.Trainer.CheckLocalTrainer()
+   at li.qubic.trainer.Trainer.Start()
+2024-05-15 12:56:08	ERROR	Runner mismatch. Desired:  vs. 0CE901BDA3E2ED75C551721EB49CE5C3
